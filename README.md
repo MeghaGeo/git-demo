@@ -1,7 +1,6 @@
 #Demo Git Repo
 
 Hello,first file alert.
-## Random Info
+## Website Info
 
-Blah..Blah...Something...something
-just some extra information
+1. index.html
